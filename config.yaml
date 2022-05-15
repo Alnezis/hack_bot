@@ -1,0 +1,8 @@
+token_tg: "5336761269:AAGaUe83i280pdQAhSnEwFlg0x3UUSyjOm0"
+db:
+  host: "95.217.118.254"
+  dbname: "test_database"
+  username: "test_user"
+  port: "5432"
+  password: "password"
+
